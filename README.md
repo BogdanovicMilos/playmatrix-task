@@ -1,4 +1,4 @@
-Clone Git Repository
+Clone git repository:
 ```bash
 git clone https://github.com/BogdanovicMilos/playmatrix-task
 ```
